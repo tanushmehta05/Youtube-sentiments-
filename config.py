@@ -1,0 +1,6 @@
+#CONTAINS ALL THE API KEYS 
+
+#API KEY FOR YOUTUBE
+#api_key='SET YOUT KEY'
+
+video_id = 'iuJ-oDZhOS8' 

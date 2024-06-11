@@ -1,0 +1,7 @@
+google-api-python-client
+vaderSentiment
+pandas
+nltk
+torch
+transformers
+scikit-learn
