@@ -27,11 +27,11 @@
         5>Deployment:
             -Deploy the trained model for real-time sentiment analysis on new YouTube comments.
 
-#Contributors
+Contributors
 -Tanush Mehta
 
-    License
-        This project is licensed under the MIT License.
+License
+    This project is licensed under the MIT License.
 
 Acknowledgments
     The project utilizes the Hugging Face Transformers library for BERT-based NLP tasks.
